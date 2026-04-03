@@ -83,4 +83,4 @@ To ensure accuracy, the following steps were performed in **Power Query**:
 
 ## 9. Screenshots / Demos
 Show what the dashboard looks like. -  ![Alt text](https://github.com/meghaharti19-cell/Sales-dashboard/blob/main/Blink%20It.png)
-Show what the dashboard looks like. -  ![Alt text](https://github.com/meghaharti19-cell/Sales-dashboard/blob/main/Blink%20It_02.png)
+Show what the dashboard looks like (filtered to "No Of Iteam") as per that all chats are changed. -  ![Alt text](https://github.com/meghaharti19-cell/Sales-dashboard/blob/main/Blink%20It_02.png)
