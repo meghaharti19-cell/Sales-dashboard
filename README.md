@@ -77,6 +77,6 @@ To ensure accuracy, the following steps were performed in **Power Query**:
 
 ## 8. Tech Stack
 * **Tool:** Power BI Desktop
-* **Language:** DAX (Data Analysis Expressions)
+* **Language:** DAX (Data Analysis Expressions) & SQL
 * **Data Source:** CSV / Excel
 * **Platform:** GitHub (for documentation and version control)
