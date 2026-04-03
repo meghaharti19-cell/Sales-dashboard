@@ -1,13 +1,9 @@
-# Sales-dashboard
-
-# BlinkIt Sales Performance Analysis
-
-## 1. Project Description
+# Sales-dashboard (BlinkIt Sales Performance Analysis)
 This project aims to provide a deep-dive analysis of **BlinkIt’s sales performance** using historical retail data. The goal is to evaluate various factors influencing grocery sales, such as item attributes (fat content, visibility, type) and outlet characteristics (size, location, establishment year). 
 
 By transforming raw data into an interactive Power BI dashboard, this project enables stakeholders to identify trends, optimize inventory distribution, and discover key drivers of revenue.
 
-### Key Objectives:
+## 1. Key Objectives:
 * Analyze revenue trends over time and across different outlet categories.
 * Identify the most profitable product types and customer preferences regarding fat content.
 * Evaluate the impact of outlet size and location (Tier 1, 2, 3) on total sales.
